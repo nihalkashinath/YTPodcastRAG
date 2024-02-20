@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+langchain-together
+embedchain
+youtube-transcript-api 
+pytube
